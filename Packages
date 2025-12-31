@@ -48,9 +48,9 @@ Maintainer: MadfingerGames
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.madfingergames.monzo.deb
-Size: 90163612
+Size: 90030270
 Description: Monzo, digital model builder
 Name: monzo
 Author: MadfingerGames
 Depiction: https://modderzlane.github.io/Moddi/depictions/?p=com.madfingergames.monzo
-MD5sum: dc39aa01b89b5ea142321d3579512c34
+MD5sum: 69c392ebc52775d1538b22acc7fa1d1e
