@@ -1,0 +1,23 @@
+<package>
+	<id>com.madfingergames.monzo</id>
+	<name>Old Package</name>
+	<version>0.4.3</version>
+	<compatibility>
+		<firmware>
+			<minOS>8.0</minOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Monzo, digital model builder</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
