@@ -10,7 +10,7 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://modderzlane.github.io/Moddi/depictions/?p=com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
@@ -24,5 +24,19 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://modderzlane.github.io/Moddi/depictions/?p=com.supermamon.oldpackage
 
+Package: com.clickgamer.AngryBirds
+Version: 7.9.6
+Section: Games
+Maintainer: Rovio
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.clickgamer.AngryBirds.deb
+Size: 99711894
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Just Angry Birds
+Name: AngryBirdsClassic
+Author: Rovio
+Depiction: https://modderzlane.github.io/Moddi/depictions/?p=com.clickgamer.AngryBirds
+MD5sum: 9d08ea6440111ebfeb6144f8f9b361d1

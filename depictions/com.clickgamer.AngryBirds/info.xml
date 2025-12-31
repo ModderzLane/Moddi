@@ -1,0 +1,23 @@
+<package>
+	<id>com.clickgamer.AngryBirds</id>
+	<name>AngryBirds</name>
+	<version>7.9.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Just Angry Birds 64-bit.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
